@@ -1,2 +1,2 @@
-# Covid10_Website
+# Covid19_Website
 Project-1
